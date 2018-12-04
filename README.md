@@ -5,7 +5,7 @@ Vue Navigation Component you can use according to your project using laravel bla
 
 1. Download vueNav.vue into any folder inside your assets folder. 
 ```javascript
-    your passed array must meet this sample output: 
+    //your passed array must meet this sample output: 
      [
        {
           id: 14,
