@@ -16,30 +16,15 @@ Vue Navigation Component you can use according to your project using laravel bla
           delete: 1,
           search: 1,
           menu: 1,
-          created_at: "2018-05-05 17:55:57",
-          updated_at: "2018-05-05 17:56:59",
-          deleted_at: null,
-          creation_user: 1,
-          updating_user: null,
-          object_name: "المستخدمين",
-          parent_id: 12,
-          command: "users",
           object: {
              id: 16,
              system_id: null,
              name_ar: "المستخدمين",
              name_en: null,
              command: "users",
-             description_ar: null,
-             description_en: null,
              parent_id: 12,
              type: 3,
-             status: 1,
-             creation_user: 1,
-             updating_user: null,
-             created_at: "2018-01-31 08:19:43",
-             updated_at: "2018-02-01 10:08:03",
-             deleted_at: null
+             status: 1
           }
        }
     ]
