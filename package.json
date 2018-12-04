@@ -1,0 +1,24 @@
+{
+  "name": "vuenavigation",
+  "version": "1.0.0",
+  "description": "Vue Navigation Menu Component used with Laravel Blade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibakhsh/vueNavigation.git"
+  },
+  "keywords": [
+    "vue-navigation",
+    "Vue",
+    "Navigation"
+  ],
+  "author": "Ibrahim Bakhsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibakhsh/vueNavigation/issues"
+  },
+  "homepage": "https://github.com/ibakhsh/vueNavigation#readme"
+}
